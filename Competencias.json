@@ -332,7 +332,13 @@
                                                  ]
                                           }
                                    ]
-                            },
+                            }
+                     ]
+              }
+                  {
+                     "name": "Disciplinas",
+                     "id": 2,
+                     "categories": [
                             {
                                    "name": "Disciplinas",
                                    "description": "",
@@ -1446,7 +1452,7 @@
                                                  ]
                                           }
                                    ]
-                            }
+                            },
                      ]
               },
               {
