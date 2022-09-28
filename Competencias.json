@@ -1,0 +1,35 @@
+{
+    "Competencia": {
+        "status": 0,
+        "object": [
+            {
+                "cardId": 810,
+                "skillId": 786,
+                "skillName": "Adobe",
+                "skillDescription": "Clã Adobe",
+                "cardName": "Acrobat DC",
+                "cardDescription": "Acrobat Reader DC é o padrão global confiável e gratuito para exibir, imprimir, assinar, compartilhar e fazer anotações em PDFs. ",
+                "conhecimento": "Possui conhecimento avançado e diferenciado do ambiente da ferramenta e suas funcionalidades, e a capacidade de orientar outros no uso adequado dos recursos do programa.",
+                "experiencia": "Possui experiencia maior ou igual a 2 anos e meio na competência.",
+                "tempoProjeto": "Possui, pelo menos, 400 horas de projeto nesta competência.",
+                "root": "Competências Técnicas",
+                "rootId": 1
+            },
+            {
+                "cardId": 51,
+                "skillId": 16,
+                "skillName": "Banco de Dados",
+                "skillDescription": "Banco de Dados",
+                "cardName": "SQL Server",
+                "cardDescription": "Sistema gerenciador de Banco de dados relacional (SGBD). Como um Banco de dados, é um produto de software cuja principal função é a de armazenar e recuperar dados solicitados por outras aplicações de software, seja aqueles no mesmo computador ou aqueles em execução em outro computador através de uma rede.",
+                "conhecimento": "Possui conhecimentos diferenciados na tecnologia. Ex1: Pode participar de soluções de arquitetura. Ex2: Participa de soluções complexas de implementação.",
+                "experiencia": "Possui experiencia maior ou igual a 2 anos e meio na competência.",
+                "tempoProjeto": "Possui, pelo menos, 400 horas de projeto nesta competência.",
+                "root": "Competências Técnicas",
+                "rootId": 1
+            }
+        ],
+        "message": null,
+        "messageKey": null
+    }
+}

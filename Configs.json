@@ -1,0 +1,10 @@
+{
+    "config": [
+        {
+            "nomeProjeto": "WorkPlayer",
+            "modoOffline": false,
+            "empresa": 0,
+            "nomeMapa": "AlgarWork"
+        }
+    ]
+}
