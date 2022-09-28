@@ -1,1031 +1,1683 @@
 {
-    "status": 0,
-    "object": [
-               {
-               "name": "Competências MEC",
-               "id": 1,
-               "categories": [
-                  {
-                  "name": "Competencias",
-                  "description": "",
-                  "id": 781,
-                  "skills": [
-                         {
-                         "name": "Competencias",
-                         "description": "Categoria de Competencias do MEC",
-                         "id": 781,
-                         "knowledges": [
-                                {
-                                "name": "Cálculo",
-                                "description": "Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia",
-                                "id": 813,
-                                "classification": {
-                                "id": 2,
-                                "name": "OURO",
-                                "description": "OURO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 3,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/ouro.png",
-                                "logoUrl": null,
-                                "attributes": [
-                                       {
-                                       "id": 9501,
-                                       "attribute": [],
-                                       "status": "A"
-                                       }
-                                       ]
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Analytics",
-                                "description": "Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia",
-                                "id": 817,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Processos",
-                                "description": "Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia",
-                                "id": 801,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Planejamento",
-                                "description": "Planejar, supervisionar, elaborar e coordenar projetos e serviços de engenharia",
-                                "id": 799,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Inovação",
-                                "description": "Identificar, formular e resolver problemas de engenharia",
-                                "id": 798,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Operação",
-                                "description": "Desenvolver e/ou utilizar novas ferramentas e técnicas",
-                                "id": 797,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Gestão de Sistemas",
-                                "description": "Supervisionar a operação e a manutenção de sistemas",
-                                "id": 796,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Qualidade",
-                                "description": "Avaliar criticamente a operação e a manutenção de sistemas",
-                                "id": 795,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Comunicação",
-                                "description": "Comunicar-se eficientemente nas formas escrita, oral e gráfica",
-                                "id": 794,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Gestão de Equipes",
-                                "description": "Atuar em equipes multidisciplinares",
-                                "id": 793,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Compliance",
-                                "description": "Compreender e aplicar a ética e responsabilidade profissionais",
-                                "id": 792,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Sustentabilidade",
-                                "description": "Avaliar o impacto das atividades da engenharia no contexto social e ambiental",
-                                "id": 791,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "BP",
-                                "description": "Avaliar a viabilidade econômica de projetos de engenharia",
-                                "id": 790,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "P&D",
-                                "description": "Assumir a postura de permanente busca de atualização profissional",
-                                "id": 789,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                
-                                ]
-                         }
-                         ]
-                  },
-                  {
-                  "name": "Disciplinas",
-                  "description": "",
-                  "id": 5,
-                  "skills": [
-                         {
-                         "name": "Disciplinas",
-                         "description": "Categoria de matérias de faculdade.",
-                         "id": 5,
-                         "knowledges": [
-                                {
-                                "name": "Operação",
-                                "description": "Operação",
-                                "id": 1223,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "ANDROID",
-                                "description": "Sistema operacional, com base no Núcleo Linux. O Android possui uma interface de usuário baseada na manipulação direta, e é projetado principalmente para dispositivos móveis com tela sensível ao toque.",
-                                "id": 99,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "ReactNative",
-                                "description": "Ferramenta que  permite criar aplicações mobile nativas  utilizando JavaScript, na lógica, e React, para estruturar  As views.",
-                                "id": 96,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "JAVA",
-                                "description": "Linguagem de programação orientada a  objetos, é compilada para um bytecode interpretado por uma máquina virtual (Java Virtual Machine, mais conhecida pela sua abreviação JVM). A linguagem Java é convencional da Plataforma Java, mas não é a sua única linguagem. ",
-                                "id": 74,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Visual Basic",
-                                "description": "Linguagem de programação produzida pela empresa Microsoft, e é parte integrante do pacote Microsoft Visual Studio. ",
-                                "id": 26,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "MySQL",
-                                "description": "Sistema gerenciador de banco de dados relacional de código aberto usado na maioria das aplicações gratuitas para gerir suas bases de dados. O serviço utiliza a linguagem SQL (Structure Query Language ¿ Linguagem de Consulta Estruturada), que é a linguagem mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados.",
-                                "id": 53,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Postgres",
-                                "description": "Sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.",
-                                "id": 52,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "SWIFT",
-                                "description": "Linguagem de programação desenvolvida pela Apple para desenvolvimento no iOS, macOS,  watchOS, tvOS e Linux. Swift foi desenvolvida para  manter compatibilidade com a API Cocoa e com código  existente em Objective-C.",
-                                "id": 98,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "ASP .NET",
-                                "description": "Plataforma da Microsoft para o desenvolvimento de aplicações Web e é o sucessor da tecnologia ASP. Permite, através de uma linguagem de programação integrada na .NET Framework, criar páginas dinâmicas. Não é nem uma linguagem de programação como VBScript, PHP, nem um servidor web como IIS ou Apache.",
-                                "id": 25,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Active"
-                                },
-                                {
-                                "name": "J#",
-                                "description": "Linguagem de programação criada pela Microsoft para ser sucessor do Visual J++, baseia-se na plataforma .NET.",
-                                "id": 23,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "ANGULAR",
-                                "description": "Plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações.",
-                                "id": 97,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "APACHE DERBY",
-                                "description": "Sistema de gerenciamento de banco de dados relacional Java que pode ser embutido em programas Java e usado para processamento de transações online.",
-                                "id": 69,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "SQL Server",
-                                "description": "Sistema gerenciador de Banco de dados relacional (SGBD). Como um Banco de dados, é um produto de software cuja principal função é a de armazenar e recuperar dados solicitados por outras aplicações de software, seja aqueles no mesmo computador ou aqueles em execução em outro computador através de uma rede.",
-                                "id": 51,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "HIBERNATE",
-                                "description": "Framework para o mapeamento objeto-relacional escrito  na linguagem Java, mas também é disponível em .Net  com o nome Nhibernate. O principal recurso do Hibernate  É o mapeamento de classes Java para tabelas de banco  de dados e mapeamento de tipos de dados Java para  Tipos de dados SQL.",
-                                "id": 73,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "F#",
-                                "description": "Linguagem de programação multiparadigma para a plataforma .NET, que engloba programação funcional, imperativa e orientada a objetos. Pertence à família das linguagens ML, e é em grande parte compatível com a linguagem OCaml.",
-                                "id": 22,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  },
-                  {
-                  "name": "Idiomas",
-                  "description": "",
-                  "id": 870,
-                  "skills": [
-                         {
-                         "name": "Idiomas",
-                         "description": "Categoria de Idiomas",
-                         "id": 870,
-                         "knowledges": [
-                                {
-                                "name": "Inglês",
-                                "description": "Inglês é uma língua germânica ocidental que surgiu nos reinos anglo-saxônicos da Inglaterra e se espalhou para o que viria a tornar-se o sudeste da Escócia, sob a influência do reino anglo medieval da Nortúmbria. O inglês tem sido amplamente disperso em todo o planeta, tornando-se a principal língua do discurso internacional e uma língua franca em muitas regiões.",
-                                "id": 872,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  },
-                  {
-                  "name": "Metodologias",
-                  "description": "",
-                  "id": 782,
-                  "skills": [
-                         {
-                         "name": "Metodologias",
-                         "description": "Categoria de Metodologias e Modelos",
-                         "id": 782,
-                         "knowledges": [
-                                {
-                                "name": "Scrum",
-                                "description": "Scrum é uma metodologia ágil para gestão e planejamento de projetos de software",
-                                "id": 830,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/metodologiasbranco.png",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Kanban",
-                                "description": "Kanban éum conceito relacionado com a utilização de cartões ( post-it e outros) para indicar o andamento dos fluxos de produção em empresas de fabricação em série.",
-                                "id": 829,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/metodologiasbranco.png",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Design Thinking",
-                                "description": "Design Thinking é uma ferramenta prática para a integração de habilidades e mentalidade inovadora voltada para empresas e salas de aula.",
-                                "id": 828,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/metodologiasbranco.png",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  }
-                  ]
-               },
-               {
-               "name": "Competências Comportamentais",
-               "id": 3,
-               "categories": [
-                  {
-                  "name": "",
-                  "description": "",
-                  "id": -1,
-                  "skills": [
-                         {
-                         "name": "Competências Comportamentais",
-                         "description": "Habilidades relacionadas a comportamento.",
-                         "id": 3,
-                         "knowledges": [
-                                {
-                                "name": "Trabalho em Equipe",
-                                "description": "Trabalho em equipe é quando um grupo ou uma sociedade resolve criar um esforço coletivo para resolver um problema. O trabalho em equipe pode também ser descrito como um conjunto ou grupo de pessoas que dedicam-se a realizar uma tarefa ou determinado trabalho.",
-                                "id": 1061,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/competenciascomportamentaisbranco.png",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Organização",
-                                "description": "Planejar-se em relação às tarefas e trabalhos que lhe são confiados, definindo prioridades e otimizando seu tempo",
-                                "id": 147,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/competenciascomportamentaisbranco.png",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Comportamental/organizacao.png",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Versatilidade",
-                                "description": "Facilidade em adaptar-se a diferentes situações no desempenho de suas atividades",
-                                "id": 145,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/competenciascomportamentaisbranco.png",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Comportamental/versatilidade.png",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  }
-                  ]
-               },
-               {
-               "name": "Acadêmico",
-               "id": 1206,
-               "categories": [
-                  {
-                  "name": "Engenharia Civil",
-                  "description": "",
-                  "id": 1208,
-                  "skills": [
-                         {
-                         "name": "Engenharia Civil",
-                         "description": "A engenharia civil é o ramo da engenharia que planeia, projeta, executa e faz a gestão de obras e empreendimentos. A engenharia civil transforma e adapta a natureza, com o objetivo de otimizar a qualidade de vida das pessoas.",
-                         "id": 1208,
-                         "knowledges": [
-                                {
-                                "name": "Desenho de projetos",
-                                "description": "O objetivo da disciplina é ensinar aos futuros engenheiros técnicas para criar plantas, projetos e croquis. O material serve como apoio para documentações, ajudando a detalhar melhor o que se espera de uma obra.",
-                                "id": 1215,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  }
-                  ]
-               },
-               {
-               "name": "Competências de Negócio",
-               "id": 2,
-               "categories": [
-                  {
-                  "name": "Recursos Humanos",
-                  "description": "",
-                  "id": 1026,
-                  "skills": [
-                         {
-                         "name": "Recursos Humanos",
-                         "description": "Categoria de Recursos Humanos",
-                         "id": 1026,
-                         "knowledges": [
-                                {
-                                "name": "Avaliação de Desempenho",
-                                "description": "Avaliação de desempenho refere-se a um mecanismo ou ferramenta que busca conhecer e medir o desempenho dos indivíduos na organização, estabelecendo uma comparação entre o desempenho esperado e o apresentado por esses indivíduos.",
-                                "id": 1034,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                },
-                                {
-                                "name": "Entrevista",
-                                "description": "Entrevista é uma conversa entre duas ou mais pessoas onde perguntas são feitas pelo entrevistador de modo a obter as informações sobre o candidato e avaliar sua personalidade e comportamento.",
-                                "id": 1033,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  },
-                  {
-                  "name": "Algar",
-                  "description": "",
-                  "id": 4,
-                  "skills": [
-                         {
-                         "name": "Algar",
-                         "description": "Negócios Algar",
-                         "id": 4,
-                         "knowledges": [
-                                {
-                                "name": "GIF Lógico",
-                                "description": "Gerenciamento de rede de dados (IP)",
-                                "id": 138,
-                                "classification": {
-                                "id": 5,
-                                "name": "BRANCO",
-                                "description": "BRANCO",
-                                "status": "A",
-                                "createdBy": "josem",
-                                "createdFrom": 1586429453000,
-                                "updatedBy": null,
-                                "updatedFrom": null,
-                                "level": 0,
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/",
-                                "starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
-                                "logoUrl": null,
-                                "attributes": []
-                                },
-                                "url": "https://www.workplayer.com.br/jackrabbit/repository/null",
-                                "avoid": "Inactive"
-                                }
-                                ]
-                         }
-                         ]
-                  }
-                  ]
-               }
-           ],
-    "message": null,
-    "messageKey": null
-    }
-    
+	"status": 0,
+	"object": [
+		{
+			"name": "Competências MEC",
+			"id": 1,
+			"categories": [
+				{
+					"name": "Competências",
+					"description": "",
+					"id": 781,
+					"skills": [
+						{
+							"name": "Competências",
+							"description": "Categoria de Competências do MEC",
+							"id": 781,
+							"knowledges": [
+								{
+									"name": "Cálculo",
+									"description": "Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia",
+									"id": 813,
+									"classification": {
+										"id": 2,
+										"name": "OURO",
+										"description": "OURO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 3,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/ouro.png",
+										"logoUrl": null,
+										"attributes": [
+											{
+												"id": 9501,
+												"attribute": [],
+												"status": "A"
+											}
+										]
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Analytics",
+									"description": "Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia",
+									"id": 817,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Processos",
+									"description": "Aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à engenharia",
+									"id": 801,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Planejamento",
+									"description": "Planejar, supervisionar, elaborar e coordenar projetos e serviços de engenharia",
+									"id": 799,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Inovação",
+									"description": "Identificar, formular e resolver problemas de engenharia",
+									"id": 798,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Operação",
+									"description": "Desenvolver e/ou utilizar novas ferramentas e técnicas",
+									"id": 797,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Gestão de Sistemas",
+									"description": "Supervisionar a operação e a manutenção de sistemas",
+									"id": 796,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Qualidade",
+									"description": "Avaliar criticamente a operação e a manutenção de sistemas",
+									"id": 795,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Comunicação",
+									"description": "Comunicar-se eficientemente nas formas escrita, oral e gráfica",
+									"id": 794,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Gestão de Equipes",
+									"description": "Atuar em equipes multidisciplinares",
+									"id": 793,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Compliance",
+									"description": "Compreender e aplicar a ética e responsabilidade profissionais",
+									"id": 792,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Sustentabilidade",
+									"description": "Avaliar o impacto das atividades da engenharia no contexto social e ambiental",
+									"id": 791,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "BP",
+									"description": "Avaliar a viabilidade econômica de projetos de engenharia",
+									"id": 790,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "P&D",
+									"description": "Assumir a postura de permanente busca de atualização profissional",
+									"id": 789,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Disciplinas",
+					"description": "",
+					"id": 5,
+					"skills": [
+						{
+							"name": "Disciplinas",
+							"description": "Categoria de matérias de faculdade.",
+							"id": 5,
+							"knowledges": [
+								{
+									"name": "Ciências Exatas e Tecnologias",
+									"description": "Ciências Exatas e Tecnologias",
+									"id": 1223,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Química",
+									"description": "Química",
+									"id": 99,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Introdução a Engenharia",
+									"description": "Introdução a Engenharia",
+									"id": 96,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Desenho Básico",
+									"description": "Desenho Básico",
+									"id": 74,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental I",
+									"description": "Atividades Complementares em Eng. Ambiental I",
+									"id": 26,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Linguagem e Pesquisa",
+									"description": "Linguagem e Pesquisa",
+									"id": 53,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Calculo Derivada e Integral",
+									"description": "Calculo Derivada e Integral",
+									"id": 52,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Ergonomia e Segurança do Trabalho",
+									"description": "Ergonomia e Segurança do Trabalho",
+									"id": 98,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Física",
+									"description": "Física",
+									"id": 25,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Active"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental II",
+									"description": "Atividades Complementares em Eng. Ambiental II",
+									"id": 23,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Homem",
+									"description": "Homem",
+									"id": 97,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Cultura e Sociedade",
+									"description": "Cultura e Sociedade",
+									"id": 69,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Cálculo Variáveis e Erros",
+									"description": "Cálculo Variáveis e Erros",
+									"id": 51,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Mecânica dos Sólidos e Ciência dos Materiais",
+									"description": "Mecânica dos Sólidos e Ciência dos Materiais",
+									"id": 73,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Álgebra Linear e Geometria Analítica",
+									"description": "Álgebra Linear e Geometria Analítica",
+									"id": 22,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental III",
+									"description": "Atividades Complementares em Eng. Ambiental III",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Estudos Ambientais",
+									"description": "Estudos Ambientais",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Gestão e Des. Sustentável",
+									"description": "Gestão e Des. Sustentável",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Química Sanitária - Princ Orânicos",
+									"description": "Química Sanitária - Princ Orânicos",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Inorgânicos e Analíticos",
+									"description": "Inorgânicos e Analíticos",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Leg. Aud e Av de Aspectos e Impactos Ambientais",
+									"description": "Leg. Aud e Av de Aspectos e Impactos Ambientais",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Bioclimatoloigia Aplicada",
+									"description": "Bioclimatoloigia Aplicada",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental IV",
+									"description": "Atividades Complementares em Eng. Ambiental IV",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Fenômenos de Transporte",
+									"description": "Fenômenos de Transporte",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Resíduos Sólidos Urbanos",
+									"description": "Resíduos Sólidos Urbanos",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Poluição ambiental, solo, água e atmosfera",
+									"description": "Poluição ambiental, solo, água e atmosfera",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Topologia aplicada",
+									"description": "Topologia aplicada",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental V",
+									"description": "Atividades Complementares em Eng. Ambiental V",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Resistência dos materiais",
+									"description": "Resistência dos materiais",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Resíduos Sólidos Rurais",
+									"description": "Resíduos Sólidos Rurais",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Sistema de tratamento e abastecimento de água",
+									"description": "Sistema de tratamento e abastecimento de água",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Ecologia e Meio Ambiente",
+									"description": "Ecologia e Meio Ambiente",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Planejamento Integrado de Recursos Estratégicos",
+									"description": "Planejamento Integrado de Recursos Estratégicos",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental VI",
+									"description": "Atividades Complementares em Eng. Ambiental VI",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Hidrologia e Hifdráulica Ambiental",
+									"description": "Hidrologia e Hifdráulica Ambiental",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Sistema de Rede de Tratamento de Esgoto",
+									"description": "Sistema de Rede de Tratamento de Esgoto",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Gerenciamento de Riscos Ambientais",
+									"description": "Gerenciamento de Riscos Ambientais",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Drenagem Urbana",
+									"description": "Drenagem Urbana",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental VII",
+									"description": "Atividades Complementares em Eng. Ambiental VII",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Temas Transversais e Atualidades",
+									"description": "Temas Transversais e Atualidades",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Destinação e Disposição  de Resíduos: Sólidos e Líquidos",
+									"description": "Destinação e Disposição  de Resíduos: Sólidos e Líquidos",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Monitoramento Ambiental",
+									"description": "Monitoramento Ambiental",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Análise e Investigação de Acidentes Ambientais",
+									"description": "Análise e Investigação de Acidentes Ambientais",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental VIII",
+									"description": "Atividades Complementares em Eng. Ambiental VIII",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Estágio Supervisionado em Eng Ambiental I",
+									"description": "Estágio Supervisionado em Eng Ambiental I",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Educação Ambiental",
+									"description": "Educação Ambiental",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Atividades Complementares em Eng. Ambiental IX",
+									"description": "Atividades Complementares em Eng. Ambiental IX",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Estágio Supervisionado em Eng Ambiental II",
+									"description": "Estágio Supervisionado em Eng Ambiental II",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "TCC - Engenharia Ambiental",
+									"description": "TCC - Engenharia Ambiental",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Optativa",
+									"description": "Optativa",
+									"id": ,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								}
+							]
+						}
+					]
+				},
+			]
+		},
+		{
+			"name": "Competências Comportamentais",
+			"id": 3,
+			"categories": [
+				{
+					"name": "",
+					"description": "",
+					"id": -1,
+					"skills": [
+						{
+							"name": "Competências Comportamentais",
+							"description": "Habilidades relacionadas a comportamento.",
+							"id": 3,
+							"knowledges": [
+								{
+									"name": "Trabalho em Equipe",
+									"description": "Trabalho em equipe é quando um grupo ou uma sociedade resolve criar um esforço coletivo para resolver um problema. O trabalho em equipe pode também ser descrito como um conjunto ou grupo de pessoas que dedicam-se a realizar uma tarefa ou determinado trabalho.",
+									"id": 1061,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/competenciascomportamentaisbranco.png",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Organização",
+									"description": "Planejar-se em relação às tarefas e trabalhos que lhe são confiados, definindo prioridades e otimizando seu tempo",
+									"id": 147,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/competenciascomportamentaisbranco.png",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Comportamental/organizacao.png",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Versatilidade",
+									"description": "Facilidade em adaptar-se a diferentes situações no desempenho de suas atividades",
+									"id": 145,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Persona/competenciascomportamentaisbranco.png",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Comportamental/versatilidade.png",
+									"avoid": "Inactive"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Acadêmico",
+			"id": 1206,
+			"categories": [
+				{
+					"name": "Engenharia Civil",
+					"description": "",
+					"id": 1208,
+					"skills": [
+						{
+							"name": "Engenharia Civil",
+							"description": "A engenharia civil é o ramo da engenharia que planeia, projeta, executa e faz a gestão de obras e empreendimentos. A engenharia civil transforma e adapta a natureza, com o objetivo de otimizar a qualidade de vida das pessoas.",
+							"id": 1208,
+							"knowledges": [
+								{
+									"name": "Desenho de projetos",
+									"description": "O objetivo da disciplina é ensinar aos futuros engenheiros técnicas para criar plantas, projetos e croquis. O material serve como apoio para documentações, ajudando a detalhar melhor o que se espera de uma obra.",
+									"id": 1215,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Competências de Negócio",
+			"id": 2,
+			"categories": [
+				{
+					"name": "Recursos Humanos",
+					"description": "",
+					"id": 1026,
+					"skills": [
+						{
+							"name": "Recursos Humanos",
+							"description": "Categoria de Recursos Humanos",
+							"id": 1026,
+							"knowledges": [
+								{
+									"name": "Avaliação de Desempenho",
+									"description": "Avaliação de desempenho refere-se a um mecanismo ou ferramenta que busca conhecer e medir o desempenho dos indivíduos na organização, estabelecendo uma comparação entre o desempenho esperado e o apresentado por esses indivíduos.",
+									"id": 1034,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								},
+								{
+									"name": "Entrevista",
+									"description": "Entrevista é uma conversa entre duas ou mais pessoas onde perguntas são feitas pelo entrevistador de modo a obter as informações sobre o candidato e avaliar sua personalidade e comportamento.",
+									"id": 1033,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Algar",
+					"description": "",
+					"id": 4,
+					"skills": [
+						{
+							"name": "Algar",
+							"description": "Negócios Algar",
+							"id": 4,
+							"knowledges": [
+								{
+									"name": "GIF Lógico",
+									"description": "Gerenciamento de rede de dados (IP)",
+									"id": 138,
+									"classification": {
+										"id": 5,
+										"name": "BRANCO",
+										"description": "BRANCO",
+										"status": "A",
+										"createdBy": "josem",
+										"createdFrom": 1586429453000,
+										"updatedBy": null,
+										"updatedFrom": null,
+										"level": 0,
+										"url": "https://www.workplayer.com.br/jackrabbit/repository/",
+										"starUrl": "https://www.workplayer.com.br/jackrabbit/repository/default/3/WP/image/Star/branco.png",
+										"logoUrl": null,
+										"attributes": []
+									},
+									"url": "https://www.workplayer.com.br/jackrabbit/repository/null",
+									"avoid": "Inactive"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"message": null,
+	"messageKey": null
+}
