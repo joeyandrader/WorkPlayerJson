@@ -1,9 +1,10 @@
 {
-    "config": [
+    "configProjeto": [
         {
             "nomeProjeto": "WorkPlayer",
             "modoOffline": false,
             "empresa": 0,
+            "nomeEmpresa": "Kyros Tecnologia",
             "nomeMapa": "AlgarWork"
         }
     ]

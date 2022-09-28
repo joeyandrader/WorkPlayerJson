@@ -1,4 +1,11 @@
 {
+    "tituloCompetencias": [
+        {
+            "comp1": "Tecnicas",
+            "comp2": "Comportamental",
+            "comp3": "Tecnologia"
+        }
+    ],
     "Competencia": {
         "status": 0,
         "object": [

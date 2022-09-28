@@ -1,0 +1,687 @@
+{
+    "status": 0,
+    "object": [
+        {
+            "name": "Competências Técnicas",
+            "id": 1,
+            "categories": [
+                {
+                    "name": "Metodologias",
+                    "description": "",
+                    "id": 782,
+                    "skills": [
+                        {
+                            "name": "Metodologias",
+                            "description": "Categoria de Metodologias e Modelos",
+                            "id": 782,
+                            "knowledges": [
+                                {
+                                    "name": "Scrum",
+                                    "description": "Scrum é uma metodologia ágil para gestão e planejamento de projetos de software",
+                                    "id": 830,
+                                    "classification": {
+                                        "id": 5,
+                                        "name": "BRANCO",
+                                        "description": "BRANCO",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 0,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/default/3/WP/image/Persona/metodologiasbranco.png",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 9714,
+                                                "attribute": {
+                                                    "id": 24,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tecnologia",
+                    "description": "",
+                    "id": 5,
+                    "skills": [
+                        {
+                            "name": "Tecnologia",
+                            "description": "Categoria de competências técnicas, para especificar linguagens e tecnologias de diversos clãs.",
+                            "id": 5,
+                            "knowledges": [
+                                {
+                                    "name": "CSS",
+                                    "description": "Mecanismo para adicionar estilo (cores, fontes, espaçamento, etc.) a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags <style>. Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos. Assim, quando se quiser alterar a aparência dos documentos vinculados a este arquivo CSS, basta modifica-lo.",
+                                    "id": 64,
+                                    "classification": {
+                                        "id": 3,
+                                        "name": "PRATA",
+                                        "description": "PRATA",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 2,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1656,
+                                                "attribute": {
+                                                    "id": 22,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "HTML",
+                                    "description": "HyperText Markup Language, Linguagem de Marcação de Hipertexto. É uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da Junção entre os padrões HyTime e SGML.",
+                                    "id": 63,
+                                    "classification": {
+                                        "id": 3,
+                                        "name": "PRATA",
+                                        "description": "PRATA",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 2,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1540,
+                                                "attribute": {
+                                                    "id": 22,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "BOOTSTRAP",
+                                    "description": "Framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo",
+                                    "id": 62,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1717,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "JAVASCRIPT",
+                                    "description": "Linguagem de programação interpretada de alto nível, caracterizada também, como dinâmica, fracamente tipificada, prototype-based e multi-paradigma. ",
+                                    "id": 59,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1357,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "C#",
+                                    "description": "Linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma .NET. A sua sintaxe orientada a objetos foi baseada no C++ mas inclui muitas influências de outras linguagens de programação, como Object Pascal e, principalmente, Java.",
+                                    "id": 21,
+                                    "classification": {
+                                        "id": 5,
+                                        "name": "BRANCO",
+                                        "description": "BRANCO",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 0,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1386,
+                                                "attribute": {
+                                                    "id": 24,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "MySQL",
+                                    "description": "Sistema gerenciador de banco de dados relacional de código aberto usado na maioria das aplicações gratuitas para gerir suas bases de dados. O serviço utiliza a linguagem SQL (Structure Query Language ¿ Linguagem de Consulta Estruturada), que é a linguagem mais popular para inserir, acessar e gerenciar o conteúdo armazenado num banco de dados.",
+                                    "id": 53,
+                                    "classification": {
+                                        "id": 5,
+                                        "name": "BRANCO",
+                                        "description": "BRANCO",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 0,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1474,
+                                                "attribute": {
+                                                    "id": 24,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Postgres",
+                                    "description": "Sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto.",
+                                    "id": 52,
+                                    "classification": {
+                                        "id": 5,
+                                        "name": "BRANCO",
+                                        "description": "BRANCO",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 0,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1598,
+                                                "attribute": {
+                                                    "id": 24,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "PLSQL",
+                                    "description": "Extensão da linguagem padrão SQL para o  SGBD Oracle da Oracle Corporation. É uma linguagem  procedural da Oracle que estende a linguagem SQL.  Permite que a manipulação de dados seja incluída em  unidades de programas.",
+                                    "id": 50,
+                                    "classification": {
+                                        "id": 5,
+                                        "name": "BRANCO",
+                                        "description": "BRANCO",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 0,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1594,
+                                                "attribute": {
+                                                    "id": 24,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Idiomas",
+                    "description": "",
+                    "id": 870,
+                    "skills": [
+                        {
+                            "name": "Idiomas",
+                            "description": "Categoria de Idiomas",
+                            "id": 870,
+                            "knowledges": [
+                                {
+                                    "name": "Inglês",
+                                    "description": "Inglês é uma língua germânica ocidental que surgiu nos reinos anglo-saxônicos da Inglaterra e se espalhou para o que viria a tornar-se o sudeste da Escócia, sob a influência do reino anglo medieval da Nortúmbria. O inglês tem sido amplamente disperso em todo o planeta, tornando-se a principal língua do discurso internacional e uma língua franca em muitas regiões.",
+                                    "id": 872,
+                                    "classification": {
+                                        "id": 5,
+                                        "name": "BRANCO",
+                                        "description": "BRANCO",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 0,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 10136,
+                                                "attribute": {
+                                                    "id": 24,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Competências Comportamentais",
+            "id": 3,
+            "categories": [
+                {
+                    "name": "",
+                    "description": "",
+                    "id": -1,
+                    "skills": [
+                        {
+                            "name": "Competências Comportamentais",
+                            "description": "Habilidades relacionadas a comportamento.",
+                            "id": 3,
+                            "knowledges": [
+                                {
+                                    "name": "Trabalho em Equipe",
+                                    "description": "Trabalho em equipe é quando um grupo ou uma sociedade resolve criar um esforço coletivo para resolver um problema. O trabalho em equipe pode também ser descrito como um conjunto ou grupo de pessoas que dedicam-se a realizar uma tarefa ou determinado trabalho.",
+                                    "id": 1061,
+                                    "classification": {
+                                        "id": 3,
+                                        "name": "PRATA",
+                                        "description": "PRATA",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 2,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 12474,
+                                                "attribute": {
+                                                    "id": 22,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Organização",
+                                    "description": "Planejar-se em relação às tarefas e trabalhos que lhe são confiados, definindo prioridades e otimizando seu tempo",
+                                    "id": 147,
+                                    "classification": {
+                                        "id": 3,
+                                        "name": "PRATA",
+                                        "description": "PRATA",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 2,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1376,
+                                                "attribute": {
+                                                    "id": 22,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "{\"timestamp\":\"05/09/2022 16:16:20\",\"status\":500,\"error\":\"Internal Server Error\",\"path\":\"/kyros-file-manager/attachment/filePath\"}",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Comunicação",
+                                    "description": "A comunicação  é um processo que envolve a troca de informações entre dois ou mais interlocutores por meio de signos e regras semióticas mutuamente entendíveis. Trata-se de um processo social primário, que permite criar e interpretar mensagens que provocam uma resposta.",
+                                    "id": 861,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 10063,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Cooperação",
+                                    "description": "Nível de contribuição ao alcance dos objetivos coletivos",
+                                    "id": 148,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1441,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Resiliência",
+                                    "description": "Ter um equilíbrio emocional para lidar com problemas sem ceder à pressão, se adaptando rapidamente",
+                                    "id": 146,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1689,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Versatilidade",
+                                    "description": "Facilidade em adaptar-se a diferentes situações no desempenho de suas atividades",
+                                    "id": 145,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1685,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                },
+                                {
+                                    "name": "Proatividade",
+                                    "description": "Capacidade de propor e ou/realizar ações adequadas espontaneamente",
+                                    "id": 144,
+                                    "classification": {
+                                        "id": 4,
+                                        "name": "BRONZE",
+                                        "description": "BRONZE",
+                                        "status": "A",
+                                        "createdBy": "josem",
+                                        "createdFrom": 1586429453000,
+                                        "updatedBy": null,
+                                        "updatedFrom": null,
+                                        "level": 1,
+                                        "url": "https://workplayer.kyros.com.br/jackrabbit/repository/",
+                                        "starUrl": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                        "logoUrl": null,
+                                        "attributes": [
+                                            {
+                                                "id": 1373,
+                                                "attribute": {
+                                                    "id": 23,
+                                                    "name": "Consideração",
+                                                    "type": "Auto-avalidado como possuidor do nível, independente dos atirbutos",
+                                                    "classification": null,
+                                                    "status": "A",
+                                                    "metricList": [],
+                                                    "manualDefiner": true
+                                                },
+                                                "status": "A"
+                                            }
+                                        ]
+                                    },
+                                    "url": "https://workplayer.kyros.com.br/jackrabbit/repository/null",
+                                    "avoid": "Inactive"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "message": null,
+    "messageKey": null
+}

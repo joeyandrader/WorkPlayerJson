@@ -1,0 +1,23 @@
+{
+    "status": 0,
+    "object": {
+        "list": [
+            {
+                "id": 16690,
+                "icon": "/globo",
+                "name": "Engajamento",
+                "description": null,
+                "predictEffort": "400",
+                "actualEffort": "4513"
+            },
+            {
+                "id": 21098,
+                "icon": "/globo",
+                "name": "Teste",
+                "description": null,
+                "predictEffort": "400",
+                "actualEffort": "4513"
+            }
+        ]
+    }
+}
